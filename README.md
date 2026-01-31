@@ -34,6 +34,9 @@ A simulation project that manages rescue requests and resource allocation, showc
 - Built with HTML, CSS, and JavaScript to practice responsive design and real-world UI implementation.  
 🔗 [Repository Link](https://github.com/Kazi-Namira?tab=repositories)
 
+---
+
+
 ## 💡 About Me
 
 - Always learning new frontend and full-stack technologies  
