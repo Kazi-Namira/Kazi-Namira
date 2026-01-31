@@ -27,20 +27,12 @@ Visualizes shortest paths using Dijkstra’s algorithm. A C++ project with graph
 
 ### 3. **Disaster Response System**  
 A simulation project that manages rescue requests and resource allocation, showcasing scheduling algorithms and real-time data processing.  
-🔗 [Repository Link](https://github.com/Kazi-Namira/Disaster-Response-System)
+🔗 [Repository Link](https://disaster-response-resource-allocati.vercel.app/) | 🌐 Deployed
 
 ### 4. **Portfolio & Clones**  
 - Netflix Clone | Flipkart Clone | Food Delivery Website  
 - Built with HTML, CSS, and JavaScript to practice responsive design and real-world UI implementation.  
 🔗 [Repository Link](https://github.com/Kazi-Namira?tab=repositories)
-
----
-
-## 📈 GitHub Stats
-
-![Namira's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kazi-Namira&show_icons=true&theme=tokyonight)
-
----
 
 ## 💡 About Me
 
