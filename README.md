@@ -6,18 +6,16 @@ I build real-world web systems and applied AI projects focused on usability, sca
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-- ##Frontend: HTML | CSS | JavaScript | React | Tailwind CSS
-Backend / Full-Stack: Node.js | Express | Strapi | PostgreSQL
-Programming: C | C++ | Python
-Tools: Git | GitHub | VS Code | Figma | Canva
-Research Tools: LaTeX | Jupyter Notebook | Pandas | NumPy | Scikit-learn | PyTorch 
-## 🛠️ Tech Stack 
-**Frontend:** HTML | CSS | JavaScript | React | Tailwind CSS 
-**Backend / Full-Stack:** Node.js | Express | Strapi | PostgreSQL 
-**Tools:** Git | GitHub | VS Code | Figma | Canva 
-**Programming Languages:** C | C++ | Python
+**Frontend:** HTML | CSS | JavaScript | React | Tailwind CSS  
+**Backend / Full-Stack:** Node.js | Express | Strapi | PostgreSQL  
+
+**Programming Languages:** C | C++ | Python  
+
+**Research Tools:** LaTeX | Jupyter Notebook | Pandas | NumPy | Scikit-learn | PyTorch
+
+**Tools:** Git | GitHub | VS Code | Figma | Canva  
 ---
 
 ## 🚀 Featured Projects
