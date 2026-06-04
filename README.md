@@ -13,7 +13,11 @@ Backend / Full-Stack: Node.js | Express | Strapi | PostgreSQL
 Programming: C | C++ | Python
 Tools: Git | GitHub | VS Code | Figma | Canva
 Research Tools: LaTeX | Jupyter Notebook | Pandas | NumPy | Scikit-learn | PyTorch 
-## 🛠️ Tech Stack **Frontend:** HTML | CSS | JavaScript | React | Tailwind CSS **Backend / Full-Stack:** Node.js | Express | Strapi | PostgreSQL **Tools:** Git | GitHub | VS Code | Figma | Canva **Programming Languages:** C | C++ | Python
+## 🛠️ Tech Stack 
+**Frontend:** HTML | CSS | JavaScript | React | Tailwind CSS 
+**Backend / Full-Stack:** Node.js | Express | Strapi | PostgreSQL 
+**Tools:** Git | GitHub | VS Code | Figma | Canva 
+**Programming Languages:** C | C++ | Python
 ---
 
 ## 🚀 Featured Projects
