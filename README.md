@@ -39,9 +39,9 @@ A simulation project that manages rescue requests and resource allocation, showc
 
 ## 💡 About Me
 
--- Focused on building scalable and practical software systems through consistent project development
--- Actively improving skills in frontend engineering and applied AI integration
--- Interested in internships and collaborative opportunities to contribute to real-world engineering problems
+- Focused on building scalable and practical software systems through consistent project development
+- Actively improving skills in frontend engineering and applied AI integration
+- Interested in internships and collaborative opportunities to contribute to real-world engineering problems
 
 ---
 
