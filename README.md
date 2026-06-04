@@ -10,12 +10,10 @@ I build real-world web systems and applied AI projects focused on usability, sca
 
 **Frontend:** HTML | CSS | JavaScript | React | Tailwind CSS  
 **Backend / Full-Stack:** Node.js | Express | Strapi | PostgreSQL  
-
 **Programming Languages:** C | C++ | Python  
-
 **Research Tools:** LaTeX | Jupyter Notebook | Pandas | NumPy | Scikit-learn | PyTorch
+**Tools:** Git | GitHub | VS Code | Figma | Canva 
 
-**Tools:** Git | GitHub | VS Code | Figma | Canva  
 ---
 
 ## 🚀 Featured Projects
