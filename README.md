@@ -1,8 +1,8 @@
 # Hi, I'm Namira 👋
 
-## 🌟 Frontend Developer | CSE Student | Problem Solver
+## Frontend Engineer | Applied AI Projects | Research-Oriented Problem Solver 
 
-I am a passionate Computer Science student from Chittagong, Bangladesh, focused on **frontend development** and building **real-world, practical projects**. I enjoy turning ideas into responsive web applications and contributing to open-source projects.
+I build real-world web systems and applied AI projects focused on usability, scalability, and problem-solving. Currently exploring intelligent systems and modern frontend architectures through hands-on development and research-oriented projects.
 
 ---
 
@@ -39,9 +39,9 @@ A simulation project that manages rescue requests and resource allocation, showc
 
 ## 💡 About Me
 
-- Always learning new frontend and full-stack technologies  
-- Focused on building **freelance-ready and real-world projects**  
-- Interested in internships where I can contribute and learn
+-- Focused on building scalable and practical software systems through consistent project development
+-- Actively improving skills in frontend engineering and applied AI integration
+-- Interested in internships and collaborative opportunities to contribute to real-world engineering problems
 
 ---
 
