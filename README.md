@@ -8,7 +8,7 @@ I build real-world web systems and applied AI projects focused on usability, sca
 
 🛠️ Tech Stack
 
-Frontend: HTML | CSS | JavaScript | React | Tailwind CSS
+- ##Frontend: HTML | CSS | JavaScript | React | Tailwind CSS
 Backend / Full-Stack: Node.js | Express | Strapi | PostgreSQL
 Programming: C | C++ | Python
 Tools: Git | GitHub | VS Code | Figma | Canva
