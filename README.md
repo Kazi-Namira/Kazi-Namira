@@ -1,6 +1,6 @@
 # Hi, I'm Namira 👋
 
-## Frontend Engineer | Applied AI Projects | Research-Oriented Problem Solver 
+## CSE Student | Building practical software systems and exploring Applied AI/ML through real-world projects and research experiments
 
 I build real-world web systems and applied AI projects focused on usability, scalability, and problem-solving. Currently exploring intelligent systems and modern frontend architectures through hands-on development and research-oriented projects.
 
